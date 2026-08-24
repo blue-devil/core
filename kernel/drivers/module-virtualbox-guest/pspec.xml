@@ -17,7 +17,7 @@
             <Dependency version="6.18.46">kernel-module-headers</Dependency>
         </BuildDependencies>
         <Patches>
-<!--             <Patch>vboxsf-make.patch</Patch> -->
+            <Patch>vbox_fb.patch</Patch>
         </Patches>
     </Source>
 
