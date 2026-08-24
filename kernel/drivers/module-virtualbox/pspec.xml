@@ -12,7 +12,7 @@
         <IsA>driver</IsA>
         <Summary>Kernel modules for VirtualBox</Summary>
         <Description>This package provides the kernel support for VirtualBox.</Description>
-        <Archive sha1sum="7f846307179034633c6f65b83fe2b9e0671f0783" type="tarxz">https://source.pisilinux.org/module-virtualbox-7.2.16.tar.xz</Archive>
+        <Archive sha1sum="7d2024233f9f2e211bbc41e65a2092d27ea2cb25" type="tarxz">https://source.pisilinux.org/module-virtualbox-7.2.16.tar.xz</Archive>
         <BuildDependencies>
             <Dependency version="6.18.46">kernel-module-headers</Dependency>
         </BuildDependencies>
