@@ -16,7 +16,7 @@
         <Archive sha1sum="55e4d4a91ccadd974c992aca9734219ce2a5dc9f" type="zip">https://github.com/morrownr/88x2bu-20210702/archive/refs/heads/main.zip</Archive>
         <BuildDependencies>
             <Dependency>bc</Dependency>
-            <Dependency version="6.18.43">kernel-module-headers</Dependency>
+            <Dependency version="6.18.46">kernel-module-headers</Dependency>
         </BuildDependencies>
         <!--
         <Patches>
